@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "a7bee055-eb51-4fc8-bd44-331020d92d14",
+		"name": "Parcial_2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47698297",
+		"_collection_link": "https://jr468997-5902926.postman.co/workspace/Jose-Rosales's-Workspace~4a148ae7-40e1-41f6-85ec-8df20c57a65a/collection/47698297-a7bee055-eb51-4fc8-bd44-331020d92d14?action=share&source=collection_link&creator=47698297"
+	},
+	"item": [
+		{
+			"name": "GET /api/libros",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/libros/:id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST /api/libros",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE /api/libros/:id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
